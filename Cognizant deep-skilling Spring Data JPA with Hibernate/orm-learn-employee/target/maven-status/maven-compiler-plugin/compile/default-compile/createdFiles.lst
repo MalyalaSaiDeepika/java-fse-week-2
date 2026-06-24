@@ -1,0 +1,10 @@
+com\cognizant\ormlearn\repository\EmployeeRepository.class
+com\cognizant\ormlearn\model\Skill.class
+com\cognizant\ormlearn\OrmLearnApplication.class
+com\cognizant\ormlearn\model\Employee.class
+com\cognizant\ormlearn\model\QuizAttempt.class
+com\cognizant\ormlearn\model\Department.class
+com\cognizant\ormlearn\repository\QuizAttemptRepository.class
+com\cognizant\ormlearn\service\QuizAttemptService.class
+com\cognizant\ormlearn\service\EmployeeCriteriaService.class
+com\cognizant\ormlearn\util\DataLoader.class

@@ -1,0 +1,11 @@
+package com.library;
+
+import org.junit.Test;
+
+public class LibraryManagementTest {
+
+    @Test
+    public void testLibrary() {
+        System.out.println("Test executed successfully");
+    }
+}
